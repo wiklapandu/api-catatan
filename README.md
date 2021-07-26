@@ -1,8 +1,8 @@
 # API Catatan
 
-![Badge License](https://img.shields.io/github/license/wiklapandu/api-catatan?style=flat-square)
-[![Badge Github](https://img.shields.io/badge/-wiklapandu-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/wiklapandu/)](https://www.github.com/wiklapandu/)
-[![Badge Twitter](https://img.shields.io/badge/-wiklapandu-cd486b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_wiklapandu/)](https://www.instagram.com/_wiklapandu/)
+[![Badge Github](https://img.shields.io/github/license/wiklapandu/api-catatan?style=flat)](https://github.com/wiklapandu/api-catatan/blob/master/LICENSE)
+[![Badge Github](https://img.shields.io/badge/-wiklapandu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/wiklapandu/)](https://www.github.com/wiklapandu/)
+[![Badge Twitter](https://img.shields.io/badge/-wiklapandu-cd486b?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_wiklapandu/)](https://www.instagram.com/_wiklapandu/)
 
 ### Table of Content
 - [Overview](#overview)

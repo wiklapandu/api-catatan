@@ -1,0 +1,24 @@
+{
+  "name": "catatan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js",
+    "lint": "eslint ."
+  },
+  "author": "Wikla Arlentera Pandu Satriawan",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "dotenv": "^10.0.0",
+    "htmlspecialchars": "^1.0.5",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
